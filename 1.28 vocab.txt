@@ -1,0 +1,2 @@
+intuition 直觉
+RBM有点不太理解：第一层RBM的visible layer是否有activation function，propagation到底指什么（我的理解是generate the weight sum and then activated result）

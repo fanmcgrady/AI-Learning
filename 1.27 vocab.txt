@@ -1,0 +1,4 @@
+this resurgence has been powered in no small part by a new trend in AI ，no small part 表不小程度上。表示这个resurgence在不小程度上是被AI的一个新趋势所推动的
+composition 布局 e.g: simplest unit of composition
+propagate传播 散布
+Universal approximation theorem 万能近似定理，指feedforward 神经网络总是可以无限逼近一个从有限维度空间到另一个有限维度空间的函数。
